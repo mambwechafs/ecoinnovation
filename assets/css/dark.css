@@ -1,0 +1,160 @@
+/* 
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+
+.dark body {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.dark #topbar, .dark #header {
+  background-color: #1e1e1e;
+}
+
+.dark #header .navbar ul li a {
+  color: #fff;
+}
+
+.dark #header .logo h1 {
+  color: #fff;
+}
+
+
+.dark .form-check-label {
+  color: #fff;
+}
+
+.dark .section-title {
+  color: #fff;
+}
+
+.dark .cta-button {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark .card {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+
+.dark body {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.dark * {
+  background-color: #1e1e1e;
+  color: #fff;
+}
+
+.dark a {
+  color: #fff;
+}
+
+.dark input {
+  background-color: #3c3c3c;
+  color: #fff;
+}
+
+.dark select {
+  background-color: #3c3c3c;
+  color: #fff;
+}
+
+.dark textarea {
+  background-color: #3c3c3c;
+  color: #fff;
+}
+
+.dark .featured {
+  
+  color: #fff;
+}
+
+.dark .icon-box i {
+  color: #fff;
+}
+
+.dark .icon-box h3 a {
+  color: #fff;
+}
+.dark #featured {
+  margin-top: -50px;
+} */
+
+.dark body {
+  background-color: #222222;
+}
+
+/* Set text color */
+.dark body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a {
+  color: #FFFFFF;
+}
+
+/* Set background color for containers */
+.dark .container,
+.container-fluid {
+  background-color: #333333;
+}
+
+/* Set color for links */
+.dark a {
+  color: #FFF;
+}
+
+/* Set hover color for links */
+.dark a:hover {
+  color: #FFF;
+}
+
+/* Set background color for buttons */
+.dark .btn {
+  background-color: #555555;
+  color: #FFFFFF;
+}
+
+/* Set background color for forms */
+.dark .form-control {
+  background-color: #444444;
+  color: #FFFFFF;
+}
+
+/* Set border color for forms */
+.dark .form-control:focus {
+  border-color: #00FFFF;
+}
+
+/* Set background color for navbar */
+.dark .navbar {
+  background-color: #444444;
+  color: #FFFFFF;
+}
+
+/* Set background color for navbar links */
+.dark .navbar-nav li a {
+  background-color: #444444;
+  color: #FFFFFF;
+}
+
+/* Set hover color for navbar links */
+.dark .navbar-nav li a:hover {
+  background-color: #555555;
+  color: #FFFFFF;
+}
